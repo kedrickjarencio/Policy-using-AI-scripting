@@ -5,7 +5,7 @@ This repository serves as a professional portfolio demonstrating practical **Pol
 ## Executive Overview
 For non-technical stakeholders, HR partners, and audit committees, a compiled enterprise governance draft of these compliance policies is available for download:
 
-**[Download the Full Policy Framework Portfolio (PDF)](./docs/it_compliance_portfolio_policies.pdf)**
+**[Download the Full Policy Framework Portfolio (PDF)](pdf/IT_Compliance.pdf)**
 
 ## Framework Mapping Matrix
 | Policy Document | Core Focus | Primary Mapping | Secondary Mapping |
