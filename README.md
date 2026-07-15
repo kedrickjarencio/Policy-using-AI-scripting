@@ -9,13 +9,4 @@ For non-technical stakeholders, HR partners, and audit committees, a compiled en
 
 **[Download the Full Policy Framework Portfolio (PDF)](Third-Party&VendorRiskManagement/vendor_risk_management_policy.pdf)**
 
-## Framework Mapping Matrix
-| Policy Document | Core Focus | Primary Mapping | Secondary Mapping |
-| :--- | :--- | :--- | :--- |
-| `AC-01-access-control.md` | Identity, MFA, & Least Privilege | SOC 2 CC6.1 - CC6.3 | ISO 27001:2022 A.5.15 |
-| `CM-01-change-management.md` | Branch Protections & Peer Reviews | SOC 2 CC8.1 | ISO 27001:2022 A.8.32 |
-| `compliance-gate.yml` | Automated Policy Linting & Controls | CIS Control 16 | Continuous Auditing |
 
-## Implemented Security Gates
-* **Automated Linting:** Enforced via GitHub Actions using markdown validation rules.
-* **Secret Scanning & Push Protection:** Configured to prevent exposure of credentials.
